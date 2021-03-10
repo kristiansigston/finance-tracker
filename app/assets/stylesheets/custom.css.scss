@@ -11,3 +11,33 @@
 h1 {
   color: red;
 }
+
+.search-area {
+  padding-top: 3em;
+}
+
+.no-left-padding {
+  padding-left: 0 !important;
+}
+
+.no-right-padding {
+  padding-right: 0 !important;
+}
+
+.results-block {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.logout-button {
+  margin-right: 1em;
+}
+
+.user-name {
+  margin-top: 3.5%;
+  padding-right: 1rem;
+}
+
+.friends-list {
+  margin-top: 1em;
+}
